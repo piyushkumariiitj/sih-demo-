@@ -1,0 +1,2522 @@
+{
+  "AWS-001": [
+    {
+      "station_id": "AWS-001",
+      "timestamp": "08:30",
+      "full_timestamp": "2026-09-29 08:30:39",
+      "temperature": 31.4,
+      "pressure": 1008.4,
+      "humidity": 64.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "08:45",
+      "full_timestamp": "2026-09-29 08:45:39",
+      "temperature": 31.3,
+      "pressure": 1008.0,
+      "humidity": 64.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "09:00",
+      "full_timestamp": "2026-09-29 09:00:39",
+      "temperature": 31.2,
+      "pressure": 1008.2,
+      "humidity": 64.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "09:15",
+      "full_timestamp": "2026-09-29 09:15:39",
+      "temperature": 30.8,
+      "pressure": 1008.3,
+      "humidity": 64.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "09:30",
+      "full_timestamp": "2026-09-29 09:30:39",
+      "temperature": 30.8,
+      "pressure": 1008.1,
+      "humidity": 64.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "09:45",
+      "full_timestamp": "2026-09-29 09:45:39",
+      "temperature": 30.3,
+      "pressure": 1008.1,
+      "humidity": 66.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "10:00",
+      "full_timestamp": "2026-09-29 10:00:39",
+      "temperature": 30.1,
+      "pressure": 1008.2,
+      "humidity": 65.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "10:15",
+      "full_timestamp": "2026-09-29 10:15:39",
+      "temperature": 30.4,
+      "pressure": 1008.0,
+      "humidity": 66.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "10:30",
+      "full_timestamp": "2026-09-29 10:30:39",
+      "temperature": 30.4,
+      "pressure": 1008.0,
+      "humidity": 64.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "10:45",
+      "full_timestamp": "2026-09-29 10:45:39",
+      "temperature": 30.6,
+      "pressure": 1008.2,
+      "humidity": 64.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "11:00",
+      "full_timestamp": "2026-09-29 11:00:39",
+      "temperature": 31.2,
+      "pressure": 1008.0,
+      "humidity": 64.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "11:15",
+      "full_timestamp": "2026-09-29 11:15:39",
+      "temperature": 31.3,
+      "pressure": 1008.2,
+      "humidity": 64.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "11:30",
+      "full_timestamp": "2026-09-29 11:30:39",
+      "temperature": 31.2,
+      "pressure": 1008.4,
+      "humidity": 63.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "11:45",
+      "full_timestamp": "2026-09-29 11:45:39",
+      "temperature": 31.4,
+      "pressure": 1008.4,
+      "humidity": 64.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "12:00",
+      "full_timestamp": "2026-09-29 12:00:39",
+      "temperature": 31.0,
+      "pressure": 1008.1,
+      "humidity": 65.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "12:15",
+      "full_timestamp": "2026-09-29 12:15:39",
+      "temperature": 30.7,
+      "pressure": 1008.2,
+      "humidity": 65.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "12:30",
+      "full_timestamp": "2026-09-29 12:30:39",
+      "temperature": 30.6,
+      "pressure": 1008.0,
+      "humidity": 64.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "12:45",
+      "full_timestamp": "2026-09-29 12:45:39",
+      "temperature": 30.2,
+      "pressure": 1008.4,
+      "humidity": 66.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "13:00",
+      "full_timestamp": "2026-09-29 13:00:39",
+      "temperature": 30.0,
+      "pressure": 1008.0,
+      "humidity": 65.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "13:15",
+      "full_timestamp": "2026-09-29 13:15:39",
+      "temperature": 30.4,
+      "pressure": 1008.4,
+      "humidity": 65.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "13:30",
+      "full_timestamp": "2026-09-29 13:30:39",
+      "temperature": 30.7,
+      "pressure": 1008.2,
+      "humidity": 64.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "13:45",
+      "full_timestamp": "2026-09-29 13:45:39",
+      "temperature": 30.8,
+      "pressure": 1008.3,
+      "humidity": 65.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "14:00",
+      "full_timestamp": "2026-09-29 14:00:39",
+      "temperature": 30.9,
+      "pressure": 1008.3,
+      "humidity": 65.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "14:15",
+      "full_timestamp": "2026-09-29 14:15:39",
+      "temperature": 31.4,
+      "pressure": 1008.2,
+      "humidity": 64.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-001",
+      "timestamp": "14:30",
+      "full_timestamp": "2026-09-29 14:30:39",
+      "temperature": 31.4,
+      "pressure": 1008.2,
+      "humidity": 64.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    }
+  ],
+  "AWS-002": [
+    {
+      "station_id": "AWS-002",
+      "timestamp": "08:30",
+      "full_timestamp": "2026-09-29 08:30:39",
+      "temperature": 32.0,
+      "pressure": 1008.0,
+      "humidity": 63.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "08:45",
+      "full_timestamp": "2026-09-29 08:45:39",
+      "temperature": 31.7,
+      "pressure": 1007.8,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "09:00",
+      "full_timestamp": "2026-09-29 09:00:39",
+      "temperature": 31.6,
+      "pressure": 1007.9,
+      "humidity": 64.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "09:15",
+      "full_timestamp": "2026-09-29 09:15:39",
+      "temperature": 31.4,
+      "pressure": 1008.0,
+      "humidity": 63.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "09:30",
+      "full_timestamp": "2026-09-29 09:30:39",
+      "temperature": 31.2,
+      "pressure": 1007.8,
+      "humidity": 64.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "09:45",
+      "full_timestamp": "2026-09-29 09:45:39",
+      "temperature": 30.8,
+      "pressure": 1007.9,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "10:00",
+      "full_timestamp": "2026-09-29 10:00:39",
+      "temperature": 30.4,
+      "pressure": 1007.7,
+      "humidity": 64.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "10:15",
+      "full_timestamp": "2026-09-29 10:15:39",
+      "temperature": 31.0,
+      "pressure": 1007.6,
+      "humidity": 64.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "10:30",
+      "full_timestamp": "2026-09-29 10:30:39",
+      "temperature": 30.8,
+      "pressure": 1007.7,
+      "humidity": 64.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "10:45",
+      "full_timestamp": "2026-09-29 10:45:39",
+      "temperature": 31.2,
+      "pressure": 1008.0,
+      "humidity": 64.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "11:00",
+      "full_timestamp": "2026-09-29 11:00:39",
+      "temperature": 31.6,
+      "pressure": 1007.6,
+      "humidity": 64.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "11:15",
+      "full_timestamp": "2026-09-29 11:15:39",
+      "temperature": 31.6,
+      "pressure": 1007.9,
+      "humidity": 63.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "11:30",
+      "full_timestamp": "2026-09-29 11:30:39",
+      "temperature": 31.9,
+      "pressure": 1007.6,
+      "humidity": 63.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "11:45",
+      "full_timestamp": "2026-09-29 11:45:39",
+      "temperature": 31.8,
+      "pressure": 1007.8,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "12:00",
+      "full_timestamp": "2026-09-29 12:00:39",
+      "temperature": 31.6,
+      "pressure": 1007.7,
+      "humidity": 63.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "12:15",
+      "full_timestamp": "2026-09-29 12:15:39",
+      "temperature": 31.4,
+      "pressure": 1008.0,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "12:30",
+      "full_timestamp": "2026-09-29 12:30:39",
+      "temperature": 31.2,
+      "pressure": 1008.0,
+      "humidity": 64.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "12:45",
+      "full_timestamp": "2026-09-29 12:45:39",
+      "temperature": 30.8,
+      "pressure": 1007.6,
+      "humidity": 65.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "13:00",
+      "full_timestamp": "2026-09-29 13:00:39",
+      "temperature": 30.7,
+      "pressure": 1007.7,
+      "humidity": 65.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "13:15",
+      "full_timestamp": "2026-09-29 13:15:39",
+      "temperature": 30.9,
+      "pressure": 1007.9,
+      "humidity": 64.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "13:30",
+      "full_timestamp": "2026-09-29 13:30:39",
+      "temperature": 30.8,
+      "pressure": 1007.6,
+      "humidity": 63.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "13:45",
+      "full_timestamp": "2026-09-29 13:45:39",
+      "temperature": 31.0,
+      "pressure": 1008.0,
+      "humidity": 64.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "14:00",
+      "full_timestamp": "2026-09-29 14:00:39",
+      "temperature": 31.3,
+      "pressure": 1008.0,
+      "humidity": 63.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "14:15",
+      "full_timestamp": "2026-09-29 14:15:39",
+      "temperature": 31.8,
+      "pressure": 1008.0,
+      "humidity": 62.7,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-002",
+      "timestamp": "14:30",
+      "full_timestamp": "2026-09-29 14:30:39",
+      "temperature": 31.8,
+      "pressure": 1007.8,
+      "humidity": 63.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    }
+  ],
+  "AWS-003": [
+    {
+      "station_id": "AWS-003",
+      "timestamp": "08:30",
+      "full_timestamp": "2026-09-29 08:30:39",
+      "temperature": 31.3,
+      "pressure": 1008.7,
+      "humidity": 65.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "08:45",
+      "full_timestamp": "2026-09-29 08:45:39",
+      "temperature": 31.0,
+      "pressure": 1008.6,
+      "humidity": 65.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "09:00",
+      "full_timestamp": "2026-09-29 09:00:39",
+      "temperature": 30.5,
+      "pressure": 1008.5,
+      "humidity": 65.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "09:15",
+      "full_timestamp": "2026-09-29 09:15:39",
+      "temperature": 30.4,
+      "pressure": 1008.7,
+      "humidity": 66.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "09:30",
+      "full_timestamp": "2026-09-29 09:30:39",
+      "temperature": 30.5,
+      "pressure": 1008.5,
+      "humidity": 66.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "09:45",
+      "full_timestamp": "2026-09-29 09:45:39",
+      "temperature": 29.9,
+      "pressure": 1008.7,
+      "humidity": 67.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "10:00",
+      "full_timestamp": "2026-09-29 10:00:39",
+      "temperature": 29.8,
+      "pressure": 1008.4,
+      "humidity": 67.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "10:15",
+      "full_timestamp": "2026-09-29 10:15:39",
+      "temperature": 30.3,
+      "pressure": 1008.3,
+      "humidity": 66.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "10:30",
+      "full_timestamp": "2026-09-29 10:30:39",
+      "temperature": 30.1,
+      "pressure": 1008.6,
+      "humidity": 66.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "10:45",
+      "full_timestamp": "2026-09-29 10:45:39",
+      "temperature": 30.6,
+      "pressure": 1008.5,
+      "humidity": 66.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "11:00",
+      "full_timestamp": "2026-09-29 11:00:39",
+      "temperature": 30.6,
+      "pressure": 1008.6,
+      "humidity": 65.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "11:15",
+      "full_timestamp": "2026-09-29 11:15:39",
+      "temperature": 30.9,
+      "pressure": 1008.3,
+      "humidity": 65.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "11:30",
+      "full_timestamp": "2026-09-29 11:30:39",
+      "temperature": 30.9,
+      "pressure": 1008.7,
+      "humidity": 65.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "11:45",
+      "full_timestamp": "2026-09-29 11:45:39",
+      "temperature": 30.7,
+      "pressure": 1008.7,
+      "humidity": 65.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "12:00",
+      "full_timestamp": "2026-09-29 12:00:39",
+      "temperature": 30.8,
+      "pressure": 1008.7,
+      "humidity": 65.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "12:15",
+      "full_timestamp": "2026-09-29 12:15:39",
+      "temperature": 30.3,
+      "pressure": 1008.4,
+      "humidity": 65.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "12:30",
+      "full_timestamp": "2026-09-29 12:30:39",
+      "temperature": 30.3,
+      "pressure": 1008.4,
+      "humidity": 66.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "12:45",
+      "full_timestamp": "2026-09-29 12:45:39",
+      "temperature": 29.9,
+      "pressure": 1008.3,
+      "humidity": 65.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "13:00",
+      "full_timestamp": "2026-09-29 13:00:39",
+      "temperature": 29.8,
+      "pressure": 1008.3,
+      "humidity": 66.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "13:15",
+      "full_timestamp": "2026-09-29 13:15:39",
+      "temperature": 30.2,
+      "pressure": 1008.5,
+      "humidity": 67.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "13:30",
+      "full_timestamp": "2026-09-29 13:30:39",
+      "temperature": 30.3,
+      "pressure": 1008.6,
+      "humidity": 66.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "13:45",
+      "full_timestamp": "2026-09-29 13:45:39",
+      "temperature": 30.7,
+      "pressure": 1008.4,
+      "humidity": 66.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "14:00",
+      "full_timestamp": "2026-09-29 14:00:39",
+      "temperature": 30.5,
+      "pressure": 1008.7,
+      "humidity": 65.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "14:15",
+      "full_timestamp": "2026-09-29 14:15:39",
+      "temperature": 30.9,
+      "pressure": 1008.4,
+      "humidity": 65.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-003",
+      "timestamp": "14:30",
+      "full_timestamp": "2026-09-29 14:30:39",
+      "temperature": 31.1,
+      "pressure": 1008.5,
+      "humidity": 65.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    }
+  ],
+  "AWS-004": [
+    {
+      "station_id": "AWS-004",
+      "timestamp": "08:30",
+      "full_timestamp": "2026-09-29 08:30:39",
+      "temperature": 32.0,
+      "pressure": 1007.5,
+      "humidity": 62.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "08:45",
+      "full_timestamp": "2026-09-29 08:45:39",
+      "temperature": 31.6,
+      "pressure": 1007.5,
+      "humidity": 62.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "09:00",
+      "full_timestamp": "2026-09-29 09:00:39",
+      "temperature": 31.8,
+      "pressure": 1007.3,
+      "humidity": 62.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "09:15",
+      "full_timestamp": "2026-09-29 09:15:39",
+      "temperature": 31.2,
+      "pressure": 1007.5,
+      "humidity": 62.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "09:30",
+      "full_timestamp": "2026-09-29 09:30:39",
+      "temperature": 31.2,
+      "pressure": 1007.4,
+      "humidity": 63.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "09:45",
+      "full_timestamp": "2026-09-29 09:45:39",
+      "temperature": 30.8,
+      "pressure": 1007.5,
+      "humidity": 63.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "10:00",
+      "full_timestamp": "2026-09-29 10:00:39",
+      "temperature": 30.9,
+      "pressure": 1007.4,
+      "humidity": 64.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "10:15",
+      "full_timestamp": "2026-09-29 10:15:39",
+      "temperature": 30.8,
+      "pressure": 1007.7,
+      "humidity": 63.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "10:30",
+      "full_timestamp": "2026-09-29 10:30:39",
+      "temperature": 31.0,
+      "pressure": 1007.7,
+      "humidity": 63.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "10:45",
+      "full_timestamp": "2026-09-29 10:45:39",
+      "temperature": 31.2,
+      "pressure": 1007.3,
+      "humidity": 62.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "11:00",
+      "full_timestamp": "2026-09-29 11:00:39",
+      "temperature": 31.8,
+      "pressure": 1007.6,
+      "humidity": 62.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "11:15",
+      "full_timestamp": "2026-09-29 11:15:39",
+      "temperature": 31.6,
+      "pressure": 1007.3,
+      "humidity": 62.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "11:30",
+      "full_timestamp": "2026-09-29 11:30:39",
+      "temperature": 31.9,
+      "pressure": 1007.5,
+      "humidity": 61.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "11:45",
+      "full_timestamp": "2026-09-29 11:45:39",
+      "temperature": 31.9,
+      "pressure": 1007.4,
+      "humidity": 62.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "12:00",
+      "full_timestamp": "2026-09-29 12:00:39",
+      "temperature": 31.4,
+      "pressure": 1007.6,
+      "humidity": 63.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "12:15",
+      "full_timestamp": "2026-09-29 12:15:39",
+      "temperature": 31.2,
+      "pressure": 1007.5,
+      "humidity": 62.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "12:30",
+      "full_timestamp": "2026-09-29 12:30:39",
+      "temperature": 31.4,
+      "pressure": 1007.3,
+      "humidity": 62.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "12:45",
+      "full_timestamp": "2026-09-29 12:45:39",
+      "temperature": 30.9,
+      "pressure": 1007.7,
+      "humidity": 63.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "13:00",
+      "full_timestamp": "2026-09-29 13:00:39",
+      "temperature": 30.6,
+      "pressure": 1007.6,
+      "humidity": 64.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "13:15",
+      "full_timestamp": "2026-09-29 13:15:39",
+      "temperature": 30.9,
+      "pressure": 1007.5,
+      "humidity": 62.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "13:30",
+      "full_timestamp": "2026-09-29 13:30:39",
+      "temperature": 31.0,
+      "pressure": 1007.6,
+      "humidity": 62.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "13:45",
+      "full_timestamp": "2026-09-29 13:45:39",
+      "temperature": 31.4,
+      "pressure": 1007.7,
+      "humidity": 62.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "14:00",
+      "full_timestamp": "2026-09-29 14:00:39",
+      "temperature": 31.8,
+      "pressure": 1007.5,
+      "humidity": 63.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "14:15",
+      "full_timestamp": "2026-09-29 14:15:39",
+      "temperature": 31.8,
+      "pressure": 1007.5,
+      "humidity": 61.7,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-004",
+      "timestamp": "14:30",
+      "full_timestamp": "2026-09-29 14:30:39",
+      "temperature": 32.0,
+      "pressure": 1007.5,
+      "humidity": 62.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    }
+  ],
+  "AWS-005": [
+    {
+      "station_id": "AWS-005",
+      "timestamp": "08:30",
+      "full_timestamp": "2026-09-29 08:30:39",
+      "temperature": 32.3,
+      "pressure": 1006.9,
+      "humidity": 60.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "08:45",
+      "full_timestamp": "2026-09-29 08:45:39",
+      "temperature": 32.3,
+      "pressure": 1007.1,
+      "humidity": 59.7,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "09:00",
+      "full_timestamp": "2026-09-29 09:00:39",
+      "temperature": 32.2,
+      "pressure": 1007.1,
+      "humidity": 61.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "09:15",
+      "full_timestamp": "2026-09-29 09:15:39",
+      "temperature": 31.7,
+      "pressure": 1006.7,
+      "humidity": 60.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "09:30",
+      "full_timestamp": "2026-09-29 09:30:39",
+      "temperature": 31.5,
+      "pressure": 1007.1,
+      "humidity": 60.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "09:45",
+      "full_timestamp": "2026-09-29 09:45:39",
+      "temperature": 31.4,
+      "pressure": 1007.0,
+      "humidity": 60.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "10:00",
+      "full_timestamp": "2026-09-29 10:00:39",
+      "temperature": 31.3,
+      "pressure": 1006.8,
+      "humidity": 62.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "10:15",
+      "full_timestamp": "2026-09-29 10:15:39",
+      "temperature": 31.3,
+      "pressure": 1006.7,
+      "humidity": 61.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "10:30",
+      "full_timestamp": "2026-09-29 10:30:39",
+      "temperature": 31.9,
+      "pressure": 1007.0,
+      "humidity": 61.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "10:45",
+      "full_timestamp": "2026-09-29 10:45:39",
+      "temperature": 32.0,
+      "pressure": 1007.0,
+      "humidity": 60.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "11:00",
+      "full_timestamp": "2026-09-29 11:00:39",
+      "temperature": 32.2,
+      "pressure": 1007.1,
+      "humidity": 60.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "11:15",
+      "full_timestamp": "2026-09-29 11:15:39",
+      "temperature": 32.1,
+      "pressure": 1007.0,
+      "humidity": 60.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "11:30",
+      "full_timestamp": "2026-09-29 11:30:39",
+      "temperature": 32.7,
+      "pressure": 1007.1,
+      "humidity": 59.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "11:45",
+      "full_timestamp": "2026-09-29 11:45:39",
+      "temperature": 32.4,
+      "pressure": 1006.7,
+      "humidity": 60.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "12:00",
+      "full_timestamp": "2026-09-29 12:00:39",
+      "temperature": 32.3,
+      "pressure": 1006.7,
+      "humidity": 60.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "12:15",
+      "full_timestamp": "2026-09-29 12:15:39",
+      "temperature": 32.1,
+      "pressure": 1007.0,
+      "humidity": 61.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "12:30",
+      "full_timestamp": "2026-09-29 12:30:39",
+      "temperature": 31.5,
+      "pressure": 1007.0,
+      "humidity": 60.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "12:45",
+      "full_timestamp": "2026-09-29 12:45:39",
+      "temperature": 31.3,
+      "pressure": 1006.7,
+      "humidity": 61.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "13:00",
+      "full_timestamp": "2026-09-29 13:00:39",
+      "temperature": 31.2,
+      "pressure": 1006.7,
+      "humidity": 61.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "13:15",
+      "full_timestamp": "2026-09-29 13:15:39",
+      "temperature": 31.4,
+      "pressure": 1007.0,
+      "humidity": 61.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "13:30",
+      "full_timestamp": "2026-09-29 13:30:39",
+      "temperature": 31.6,
+      "pressure": 1007.1,
+      "humidity": 61.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "13:45",
+      "full_timestamp": "2026-09-29 13:45:39",
+      "temperature": 31.8,
+      "pressure": 1006.8,
+      "humidity": 60.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "14:00",
+      "full_timestamp": "2026-09-29 14:00:39",
+      "temperature": 32.3,
+      "pressure": 1007.1,
+      "humidity": 60.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "14:15",
+      "full_timestamp": "2026-09-29 14:15:39",
+      "temperature": 32.1,
+      "pressure": 1007.0,
+      "humidity": 60.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-005",
+      "timestamp": "14:30",
+      "full_timestamp": "2026-09-29 14:30:39",
+      "temperature": 32.5,
+      "pressure": 1006.9,
+      "humidity": 60.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    }
+  ],
+  "AWS-006": [
+    {
+      "station_id": "AWS-006",
+      "timestamp": "08:30",
+      "full_timestamp": "2026-09-29 08:30:39",
+      "temperature": 31.7,
+      "pressure": 1008.2,
+      "humidity": 62.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "08:45",
+      "full_timestamp": "2026-09-29 08:45:39",
+      "temperature": 31.7,
+      "pressure": 1008.1,
+      "humidity": 63.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "09:00",
+      "full_timestamp": "2026-09-29 09:00:39",
+      "temperature": 31.3,
+      "pressure": 1007.9,
+      "humidity": 64.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "09:15",
+      "full_timestamp": "2026-09-29 09:15:39",
+      "temperature": 30.9,
+      "pressure": 1008.3,
+      "humidity": 64.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "09:30",
+      "full_timestamp": "2026-09-29 09:30:39",
+      "temperature": 31.1,
+      "pressure": 1007.9,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "09:45",
+      "full_timestamp": "2026-09-29 09:45:39",
+      "temperature": 30.8,
+      "pressure": 1008.1,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "10:00",
+      "full_timestamp": "2026-09-29 10:00:39",
+      "temperature": 30.7,
+      "pressure": 1008.3,
+      "humidity": 65.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "10:15",
+      "full_timestamp": "2026-09-29 10:15:39",
+      "temperature": 30.8,
+      "pressure": 1007.9,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "10:30",
+      "full_timestamp": "2026-09-29 10:30:39",
+      "temperature": 31.1,
+      "pressure": 1007.9,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "10:45",
+      "full_timestamp": "2026-09-29 10:45:39",
+      "temperature": 31.3,
+      "pressure": 1008.1,
+      "humidity": 64.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "11:00",
+      "full_timestamp": "2026-09-29 11:00:39",
+      "temperature": 31.5,
+      "pressure": 1007.9,
+      "humidity": 63.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "11:15",
+      "full_timestamp": "2026-09-29 11:15:39",
+      "temperature": 31.5,
+      "pressure": 1008.1,
+      "humidity": 62.7,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "11:30",
+      "full_timestamp": "2026-09-29 11:30:39",
+      "temperature": 31.5,
+      "pressure": 1007.9,
+      "humidity": 62.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "11:45",
+      "full_timestamp": "2026-09-29 11:45:39",
+      "temperature": 31.7,
+      "pressure": 1008.3,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "12:00",
+      "full_timestamp": "2026-09-29 12:00:39",
+      "temperature": 31.1,
+      "pressure": 1008.2,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "12:15",
+      "full_timestamp": "2026-09-29 12:15:39",
+      "temperature": 31.3,
+      "pressure": 1007.9,
+      "humidity": 63.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "12:30",
+      "full_timestamp": "2026-09-29 12:30:39",
+      "temperature": 30.7,
+      "pressure": 1007.9,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "12:45",
+      "full_timestamp": "2026-09-29 12:45:39",
+      "temperature": 30.5,
+      "pressure": 1007.9,
+      "humidity": 65.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "13:00",
+      "full_timestamp": "2026-09-29 13:00:39",
+      "temperature": 30.5,
+      "pressure": 1008.0,
+      "humidity": 64.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "13:15",
+      "full_timestamp": "2026-09-29 13:15:39",
+      "temperature": 30.7,
+      "pressure": 1008.2,
+      "humidity": 65.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "13:30",
+      "full_timestamp": "2026-09-29 13:30:39",
+      "temperature": 30.9,
+      "pressure": 1008.3,
+      "humidity": 63.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "13:45",
+      "full_timestamp": "2026-09-29 13:45:39",
+      "temperature": 31.3,
+      "pressure": 1008.2,
+      "humidity": 64.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "14:00",
+      "full_timestamp": "2026-09-29 14:00:39",
+      "temperature": 31.5,
+      "pressure": 1008.2,
+      "humidity": 63.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "14:15",
+      "full_timestamp": "2026-09-29 14:15:39",
+      "temperature": 31.6,
+      "pressure": 1008.0,
+      "humidity": 63.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-006",
+      "timestamp": "14:30",
+      "full_timestamp": "2026-09-29 14:30:39",
+      "temperature": 31.7,
+      "pressure": 1008.1,
+      "humidity": 63.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    }
+  ],
+  "AWS-007": [
+    {
+      "station_id": "AWS-007",
+      "timestamp": "08:30",
+      "full_timestamp": "2026-09-29 08:30:39",
+      "temperature": 32.4,
+      "pressure": 1007.6,
+      "humidity": 60.7,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "08:45",
+      "full_timestamp": "2026-09-29 08:45:39",
+      "temperature": 32.2,
+      "pressure": 1007.5,
+      "humidity": 61.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "09:00",
+      "full_timestamp": "2026-09-29 09:00:39",
+      "temperature": 31.6,
+      "pressure": 1007.7,
+      "humidity": 62.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "09:15",
+      "full_timestamp": "2026-09-29 09:15:39",
+      "temperature": 31.5,
+      "pressure": 1007.5,
+      "humidity": 61.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "09:30",
+      "full_timestamp": "2026-09-29 09:30:39",
+      "temperature": 31.4,
+      "pressure": 1007.8,
+      "humidity": 62.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "09:45",
+      "full_timestamp": "2026-09-29 09:45:39",
+      "temperature": 31.4,
+      "pressure": 1007.4,
+      "humidity": 62.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "10:00",
+      "full_timestamp": "2026-09-29 10:00:39",
+      "temperature": 31.2,
+      "pressure": 1007.8,
+      "humidity": 62.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "10:15",
+      "full_timestamp": "2026-09-29 10:15:39",
+      "temperature": 31.4,
+      "pressure": 1007.8,
+      "humidity": 63.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "10:30",
+      "full_timestamp": "2026-09-29 10:30:39",
+      "temperature": 31.2,
+      "pressure": 1007.7,
+      "humidity": 62.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "10:45",
+      "full_timestamp": "2026-09-29 10:45:39",
+      "temperature": 31.7,
+      "pressure": 1007.6,
+      "humidity": 61.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "11:00",
+      "full_timestamp": "2026-09-29 11:00:39",
+      "temperature": 31.9,
+      "pressure": 1007.4,
+      "humidity": 61.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "11:15",
+      "full_timestamp": "2026-09-29 11:15:39",
+      "temperature": 32.1,
+      "pressure": 1007.6,
+      "humidity": 61.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "11:30",
+      "full_timestamp": "2026-09-29 11:30:39",
+      "temperature": 32.0,
+      "pressure": 1007.4,
+      "humidity": 61.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "11:45",
+      "full_timestamp": "2026-09-29 11:45:39",
+      "temperature": 31.8,
+      "pressure": 1007.5,
+      "humidity": 61.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "12:00",
+      "full_timestamp": "2026-09-29 12:00:39",
+      "temperature": 32.0,
+      "pressure": 1007.6,
+      "humidity": 61.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "12:15",
+      "full_timestamp": "2026-09-29 12:15:39",
+      "temperature": 31.6,
+      "pressure": 1007.6,
+      "humidity": 62.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "12:30",
+      "full_timestamp": "2026-09-29 12:30:39",
+      "temperature": 31.5,
+      "pressure": 1007.5,
+      "humidity": 62.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "12:45",
+      "full_timestamp": "2026-09-29 12:45:39",
+      "temperature": 31.2,
+      "pressure": 1007.7,
+      "humidity": 61.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "13:00",
+      "full_timestamp": "2026-09-29 13:00:39",
+      "temperature": 30.9,
+      "pressure": 1007.5,
+      "humidity": 62.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "13:15",
+      "full_timestamp": "2026-09-29 13:15:39",
+      "temperature": 31.1,
+      "pressure": 1007.5,
+      "humidity": 63.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "13:30",
+      "full_timestamp": "2026-09-29 13:30:39",
+      "temperature": 31.5,
+      "pressure": 1007.8,
+      "humidity": 61.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "13:45",
+      "full_timestamp": "2026-09-29 13:45:39",
+      "temperature": 31.8,
+      "pressure": 1007.6,
+      "humidity": 61.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "14:00",
+      "full_timestamp": "2026-09-29 14:00:39",
+      "temperature": 31.9,
+      "pressure": 1007.6,
+      "humidity": 61.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "14:15",
+      "full_timestamp": "2026-09-29 14:15:39",
+      "temperature": 31.8,
+      "pressure": 1007.6,
+      "humidity": 61.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-007",
+      "timestamp": "14:30",
+      "full_timestamp": "2026-09-29 14:30:39",
+      "temperature": 32.2,
+      "pressure": 1007.6,
+      "humidity": 61.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    }
+  ],
+  "AWS-008": [
+    {
+      "station_id": "AWS-008",
+      "timestamp": "08:30",
+      "full_timestamp": "2026-09-29 08:30:39",
+      "temperature": 31.4,
+      "pressure": 1008.9,
+      "humidity": 66.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "08:45",
+      "full_timestamp": "2026-09-29 08:45:39",
+      "temperature": 30.9,
+      "pressure": 1008.5,
+      "humidity": 66.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "09:00",
+      "full_timestamp": "2026-09-29 09:00:39",
+      "temperature": 30.7,
+      "pressure": 1008.7,
+      "humidity": 66.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "09:15",
+      "full_timestamp": "2026-09-29 09:15:39",
+      "temperature": 30.9,
+      "pressure": 1008.7,
+      "humidity": 67.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "09:30",
+      "full_timestamp": "2026-09-29 09:30:39",
+      "temperature": 30.3,
+      "pressure": 1008.7,
+      "humidity": 66.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "09:45",
+      "full_timestamp": "2026-09-29 09:45:39",
+      "temperature": 30.5,
+      "pressure": 1008.9,
+      "humidity": 67.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "10:00",
+      "full_timestamp": "2026-09-29 10:00:39",
+      "temperature": 30.3,
+      "pressure": 1008.7,
+      "humidity": 67.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "10:15",
+      "full_timestamp": "2026-09-29 10:15:39",
+      "temperature": 30.1,
+      "pressure": 1008.8,
+      "humidity": 67.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "10:30",
+      "full_timestamp": "2026-09-29 10:30:39",
+      "temperature": 30.5,
+      "pressure": 1008.6,
+      "humidity": 66.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "10:45",
+      "full_timestamp": "2026-09-29 10:45:39",
+      "temperature": 30.9,
+      "pressure": 1008.7,
+      "humidity": 66.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "11:00",
+      "full_timestamp": "2026-09-29 11:00:39",
+      "temperature": 31.0,
+      "pressure": 1008.6,
+      "humidity": 66.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "11:15",
+      "full_timestamp": "2026-09-29 11:15:39",
+      "temperature": 31.3,
+      "pressure": 1008.6,
+      "humidity": 66.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "11:30",
+      "full_timestamp": "2026-09-29 11:30:39",
+      "temperature": 31.5,
+      "pressure": 1008.9,
+      "humidity": 66.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "11:45",
+      "full_timestamp": "2026-09-29 11:45:39",
+      "temperature": 31.2,
+      "pressure": 1008.5,
+      "humidity": 66.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "12:00",
+      "full_timestamp": "2026-09-29 12:00:39",
+      "temperature": 30.9,
+      "pressure": 1008.5,
+      "humidity": 66.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "12:15",
+      "full_timestamp": "2026-09-29 12:15:39",
+      "temperature": 30.6,
+      "pressure": 1008.8,
+      "humidity": 67.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "12:30",
+      "full_timestamp": "2026-09-29 12:30:39",
+      "temperature": 30.7,
+      "pressure": 1008.9,
+      "humidity": 67.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "12:45",
+      "full_timestamp": "2026-09-29 12:45:39",
+      "temperature": 30.4,
+      "pressure": 1008.7,
+      "humidity": 67.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "13:00",
+      "full_timestamp": "2026-09-29 13:00:39",
+      "temperature": 30.3,
+      "pressure": 1008.9,
+      "humidity": 68.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "13:15",
+      "full_timestamp": "2026-09-29 13:15:39",
+      "temperature": 30.5,
+      "pressure": 1008.7,
+      "humidity": 67.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "13:30",
+      "full_timestamp": "2026-09-29 13:30:39",
+      "temperature": 30.4,
+      "pressure": 1008.5,
+      "humidity": 66.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "13:45",
+      "full_timestamp": "2026-09-29 13:45:39",
+      "temperature": 30.7,
+      "pressure": 1008.9,
+      "humidity": 66.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "14:00",
+      "full_timestamp": "2026-09-29 14:00:39",
+      "temperature": 30.8,
+      "pressure": 1008.5,
+      "humidity": 66.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "14:15",
+      "full_timestamp": "2026-09-29 14:15:39",
+      "temperature": 30.9,
+      "pressure": 1008.9,
+      "humidity": 66.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-008",
+      "timestamp": "14:30",
+      "full_timestamp": "2026-09-29 14:30:39",
+      "temperature": 31.3,
+      "pressure": 1008.7,
+      "humidity": 66.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    }
+  ],
+  "AWS-009": [
+    {
+      "station_id": "AWS-009",
+      "timestamp": "08:30",
+      "full_timestamp": "2026-09-29 08:30:39",
+      "temperature": 30.8,
+      "pressure": 1009.2,
+      "humidity": 67.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "08:45",
+      "full_timestamp": "2026-09-29 08:45:39",
+      "temperature": 30.9,
+      "pressure": 1009.3,
+      "humidity": 66.7,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "09:00",
+      "full_timestamp": "2026-09-29 09:00:39",
+      "temperature": 30.3,
+      "pressure": 1009.2,
+      "humidity": 67.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "09:15",
+      "full_timestamp": "2026-09-29 09:15:39",
+      "temperature": 30.5,
+      "pressure": 1009.0,
+      "humidity": 68.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "09:30",
+      "full_timestamp": "2026-09-29 09:30:39",
+      "temperature": 30.1,
+      "pressure": 1009.1,
+      "humidity": 68.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "09:45",
+      "full_timestamp": "2026-09-29 09:45:39",
+      "temperature": 30.1,
+      "pressure": 1009.3,
+      "humidity": 68.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "10:00",
+      "full_timestamp": "2026-09-29 10:00:39",
+      "temperature": 29.5,
+      "pressure": 1009.0,
+      "humidity": 68.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "10:15",
+      "full_timestamp": "2026-09-29 10:15:39",
+      "temperature": 29.7,
+      "pressure": 1009.3,
+      "humidity": 68.8,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "10:30",
+      "full_timestamp": "2026-09-29 10:30:39",
+      "temperature": 30.3,
+      "pressure": 1009.0,
+      "humidity": 67.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "10:45",
+      "full_timestamp": "2026-09-29 10:45:39",
+      "temperature": 30.1,
+      "pressure": 1009.1,
+      "humidity": 68.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "11:00",
+      "full_timestamp": "2026-09-29 11:00:39",
+      "temperature": 30.6,
+      "pressure": 1009.0,
+      "humidity": 67.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "11:15",
+      "full_timestamp": "2026-09-29 11:15:39",
+      "temperature": 30.9,
+      "pressure": 1009.0,
+      "humidity": 67.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "11:30",
+      "full_timestamp": "2026-09-29 11:30:39",
+      "temperature": 30.8,
+      "pressure": 1009.0,
+      "humidity": 66.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "11:45",
+      "full_timestamp": "2026-09-29 11:45:39",
+      "temperature": 30.7,
+      "pressure": 1009.3,
+      "humidity": 66.7,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "12:00",
+      "full_timestamp": "2026-09-29 12:00:39",
+      "temperature": 30.3,
+      "pressure": 1009.0,
+      "humidity": 68.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "12:15",
+      "full_timestamp": "2026-09-29 12:15:39",
+      "temperature": 30.4,
+      "pressure": 1009.0,
+      "humidity": 68.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "12:30",
+      "full_timestamp": "2026-09-29 12:30:39",
+      "temperature": 29.9,
+      "pressure": 1009.4,
+      "humidity": 67.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "12:45",
+      "full_timestamp": "2026-09-29 12:45:39",
+      "temperature": 29.7,
+      "pressure": 1009.1,
+      "humidity": 68.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "13:00",
+      "full_timestamp": "2026-09-29 13:00:39",
+      "temperature": 29.9,
+      "pressure": 1009.0,
+      "humidity": 69.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "13:15",
+      "full_timestamp": "2026-09-29 13:15:39",
+      "temperature": 30.1,
+      "pressure": 1009.2,
+      "humidity": 69.1,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "13:30",
+      "full_timestamp": "2026-09-29 13:30:39",
+      "temperature": 30.0,
+      "pressure": 1009.1,
+      "humidity": 68.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "13:45",
+      "full_timestamp": "2026-09-29 13:45:39",
+      "temperature": 30.2,
+      "pressure": 1009.1,
+      "humidity": 67.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "14:00",
+      "full_timestamp": "2026-09-29 14:00:39",
+      "temperature": 30.7,
+      "pressure": 1009.3,
+      "humidity": 67.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "14:15",
+      "full_timestamp": "2026-09-29 14:15:39",
+      "temperature": 30.5,
+      "pressure": 1009.1,
+      "humidity": 67.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-009",
+      "timestamp": "14:30",
+      "full_timestamp": "2026-09-29 14:30:39",
+      "temperature": 30.9,
+      "pressure": 1009.2,
+      "humidity": 67.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    }
+  ],
+  "AWS-010": [
+    {
+      "station_id": "AWS-010",
+      "timestamp": "08:30",
+      "full_timestamp": "2026-09-29 08:30:39",
+      "temperature": 31.9,
+      "pressure": 1007.3,
+      "humidity": 61.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "08:45",
+      "full_timestamp": "2026-09-29 08:45:39",
+      "temperature": 32.1,
+      "pressure": 1007.3,
+      "humidity": 62.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "09:00",
+      "full_timestamp": "2026-09-29 09:00:39",
+      "temperature": 31.5,
+      "pressure": 1007.3,
+      "humidity": 63.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "09:15",
+      "full_timestamp": "2026-09-29 09:15:39",
+      "temperature": 31.7,
+      "pressure": 1007.3,
+      "humidity": 62.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "09:30",
+      "full_timestamp": "2026-09-29 09:30:39",
+      "temperature": 31.3,
+      "pressure": 1007.2,
+      "humidity": 62.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "09:45",
+      "full_timestamp": "2026-09-29 09:45:39",
+      "temperature": 30.9,
+      "pressure": 1007.4,
+      "humidity": 62.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "10:00",
+      "full_timestamp": "2026-09-29 10:00:39",
+      "temperature": 30.7,
+      "pressure": 1007.2,
+      "humidity": 63.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "10:15",
+      "full_timestamp": "2026-09-29 10:15:39",
+      "temperature": 31.1,
+      "pressure": 1007.2,
+      "humidity": 63.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "10:30",
+      "full_timestamp": "2026-09-29 10:30:39",
+      "temperature": 31.5,
+      "pressure": 1007.2,
+      "humidity": 62.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "10:45",
+      "full_timestamp": "2026-09-29 10:45:39",
+      "temperature": 31.3,
+      "pressure": 1007.4,
+      "humidity": 62.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "11:00",
+      "full_timestamp": "2026-09-29 11:00:39",
+      "temperature": 31.9,
+      "pressure": 1007.2,
+      "humidity": 62.3,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "11:15",
+      "full_timestamp": "2026-09-29 11:15:39",
+      "temperature": 32.1,
+      "pressure": 1007.1,
+      "humidity": 62.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "11:30",
+      "full_timestamp": "2026-09-29 11:30:39",
+      "temperature": 32.2,
+      "pressure": 1007.2,
+      "humidity": 62.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "11:45",
+      "full_timestamp": "2026-09-29 11:45:39",
+      "temperature": 31.8,
+      "pressure": 1007.1,
+      "humidity": 62.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "12:00",
+      "full_timestamp": "2026-09-29 12:00:39",
+      "temperature": 31.7,
+      "pressure": 1007.1,
+      "humidity": 62.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "12:15",
+      "full_timestamp": "2026-09-29 12:15:39",
+      "temperature": 31.6,
+      "pressure": 1007.2,
+      "humidity": 63.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "12:30",
+      "full_timestamp": "2026-09-29 12:30:39",
+      "temperature": 31.1,
+      "pressure": 1007.3,
+      "humidity": 62.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "12:45",
+      "full_timestamp": "2026-09-29 12:45:39",
+      "temperature": 31.3,
+      "pressure": 1007.4,
+      "humidity": 62.9,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "13:00",
+      "full_timestamp": "2026-09-29 13:00:39",
+      "temperature": 31.0,
+      "pressure": 1007.4,
+      "humidity": 64.4,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "13:15",
+      "full_timestamp": "2026-09-29 13:15:39",
+      "temperature": 31.1,
+      "pressure": 1007.2,
+      "humidity": 63.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "13:30",
+      "full_timestamp": "2026-09-29 13:30:39",
+      "temperature": 31.4,
+      "pressure": 1007.5,
+      "humidity": 63.5,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "13:45",
+      "full_timestamp": "2026-09-29 13:45:39",
+      "temperature": 31.5,
+      "pressure": 1007.1,
+      "humidity": 62.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "14:00",
+      "full_timestamp": "2026-09-29 14:00:39",
+      "temperature": 31.9,
+      "pressure": 1007.5,
+      "humidity": 63.2,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "14:15",
+      "full_timestamp": "2026-09-29 14:15:39",
+      "temperature": 31.7,
+      "pressure": 1007.3,
+      "humidity": 62.6,
+      "is_anomaly": false,
+      "anomaly_type": null
+    },
+    {
+      "station_id": "AWS-010",
+      "timestamp": "14:30",
+      "full_timestamp": "2026-09-29 14:30:39",
+      "temperature": 32.1,
+      "pressure": 1007.3,
+      "humidity": 62.0,
+      "is_anomaly": false,
+      "anomaly_type": null
+    }
+  ]
+}
